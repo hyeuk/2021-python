@@ -1,0 +1,30 @@
+파이썬 5주차
+
+리스트
+정수,실수,문자열,리스트 등이 모두 가능함.
+항목순서에는 의미가있음.
+항목 자료값은 중복돼도 상관없음.
+ex : pl = ['hi','bye']
+
+메소드 append
+리스트의 가장 뒤에 항목을 추가할때 사용
+p1.append(삽입할 항목)
+
+리스트 항목 참조
+
+py = list('python')
+
+print(py[0],py[5])
+>>pn
+print(py[-len(py)],py[len(py)-1])
+>>pn
+
+random모듈의 메소드 choice(리스트)
+ex : from random import choice
+
+rsp = ['가위','바위','보']
+
+print(choice(rsp))
+
+>> 리스트 세개중 하나 랜덤으로 나옴
+

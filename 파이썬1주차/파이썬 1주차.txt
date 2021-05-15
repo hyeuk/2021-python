@@ -1,0 +1,38 @@
+파이썬 - 책을 열심히 잘보면 2~3주안에 할수있음 
+-머신러닝과 딥러닝 등의 인공지능
+ 싸이킷런(scikit-learn) , 텐서플로(tensorflow) , 케라스(keras)
+
+cpythin : 우리가 주로 사용하는 전통적 파이썬
+-python.org
+ipython : 주피터(jupyter)라고도 부르며, 강력한 대화형 쉘 지원
+- 아나콘다로 배포되며, 다음 개발환경을 지원
+	주피터 노트북
+	주피터 랩		<<좋은 도구들.
+	스파이더
+기존 IDE에 추가
+- 비주얼 스튜디오
+	파이선 도구 추가
+- 이클립스
+	PYDEV 설치
+
+파이썬 전용 IDE
+- PyCharm, spyder, comodo, wing python ide, pyscripter, thonny등
+
+-웹 기반 도구
+	jupyter lab,
+
+-클라우드 개발환경
+	Colab(colab.research.google.com) <<중요!
+편집기 전문 개발 환경
+- subblime text, atom, vim
+- visual studio code, notepad++,
+
+인터프리트 방식
+- 동시 통역처럼, 프로그램의 코드가 한 줄씩 순서대로 해석되고 실행
+- 인터프리터(INTERPRETER)
+	한 줄 한 줄의 해석을 담당하는 프로그램
+컴파일 방식
+- 컴파일러(COMPILER)
+	컴파일(COMPILING)을 담당하는 개발 도구 소프트웨어
+
+	인터프리터와 컴파일러의 차이<< 꼭알아두기 무조건 중간고사에 나옴 그림29 꼭 이해하기!
